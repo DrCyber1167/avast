@@ -272,16 +272,10 @@ function create_config( )
     sudo_users = {212990316},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
-    about_text = [[avast V6.3 - Open Source
-    http://bit.ly/1SjFZ2e
-An advance Administration bot based on yagop/telegram-bot 
-
-https://github.com/Arashalone/avast-BOT-V6.3/
-
-Developed and avast team owner: @arashnomiri
-
+    about_text = [[ADMIN
+    @KALILINUXNEW
 Our channel:
-@avast_team
+@KALILINUXNEWS
 ]],
     help_text_realm = [[
 Realm Commands:
